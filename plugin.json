@@ -1,0 +1,12 @@
+{
+    "ID": "a194ce56-ab18-46ef-9c6b-809074bb1415",
+    "ActionKeyword": "hk",
+    "Name": "Flow.Launcher.Plugin.Hotkey",
+    "Description": "Used for quick query hotkeys",
+    "Author": "Flow Launcher",
+    "Version": "0.0.1",
+    "Language": "python",
+    "Website": "https://github.com/Flow-Launcher/Flow.Launcher.Plugin.Hotkey",
+    "IcoPath": "Images\\app.png",
+    "ExecuteFileName": "main.py"
+}
