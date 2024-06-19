@@ -1,0 +1,6 @@
+body:
+  - type: input
+    attributes:
+      name: language
+      label: zh or en
+      defaultValue: zh
